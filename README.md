@@ -7,8 +7,9 @@ This Python script demonstrates how to create an interactive image generation ap
 - **Torch**: A deep learning framework for building and deploying machine learning models.
 - **Diffusers**: A library from Hugging Face for running diffusion models like Stable Diffusion.
 
-## Demo
-A demo of the project can be viewed here:
+## Video Walkthrough
+
+Here's a walkthrough of implemented required features:
 ![Video Walkthrough](https://github.com/vetskiver/stable-diffusion-app/blob/master/stable-diffusion-demo.gif)
 
 ## Installation
